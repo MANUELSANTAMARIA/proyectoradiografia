@@ -8,5 +8,6 @@ nltk==3.7
 matplotlib==3.5.1
 imagen==1.5.33
 plotly-express==0.4.1
+scikit-learn==0.23.2
 freeglut3-dev
 libgtk2.0-dev
